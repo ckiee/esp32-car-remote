@@ -15,6 +15,10 @@ no lol
 
 fine..`pio run -t upload && cd client && cargo run the_ip:3333` (you can `pio device monitor` with the ESP32 plugged in for the IP)
 
+## y no commit history??
+
+i may have had my wifi password commited for 7 months...
+
 ## license
 
 see `LICENSE` file, MIT.
